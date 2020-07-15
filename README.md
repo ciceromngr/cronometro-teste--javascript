@@ -1,2 +1,2 @@
-# cronometro-teste--javascript
+# cronometro-teste-javascript
 primeiro repositorio em git-hub
